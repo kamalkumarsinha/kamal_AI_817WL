@@ -1,0 +1,11 @@
+Fill in the details (should be same as those while registering for CNI Hackathon):
+
+Team Name: The_Wild_Coders
+
+Team Member 1: (Assumed to be the team lead, by default)
+Name: Kamal Kumar Sinha
+Email ID: kamal20101@iiitnr.edu.in 
+
+Team Member 2:
+Name: Anand Kumar Singh
+Email ID: anand20101@iiitnr.edu.in 
