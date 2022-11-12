@@ -9,7 +9,7 @@ STAY = (0,0)
 EMPTY = 0
 
 class player:
-    def _init_(self):
+    def __init__(self):
         self.step=0
         self.right=0
         self.left=0
